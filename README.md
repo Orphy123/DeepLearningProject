@@ -1,4 +1,10 @@
 # DeepLearningProject
+
+Participants:
+1. Oheneba Kwaku Berko
+2. Aidan Witeck 
+
+
 Summary
 
 Title: Enhancing Traffic Recognition and Management with YOLO-based Car Object Detection

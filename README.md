@@ -29,3 +29,7 @@ Utilizing the YOLO algorithm for car object detection can significantly benefit 
 Conclusion
 
 The YOLO algorithm has the potential to revolutionize traffic recognition and management systems with its real-time processing capabilities and high accuracy. By leveraging this technology in car object detection, stakeholders can develop innovative solutions to improve traffic flow, enhance road safety, and optimize urban mobility. The applications discussed in this essay demonstrate just a few of the many possibilities for harnessing the power of the YOLO-based deep learning model for car object detection in traffic recognition and management.
+
+**How to Run the Code**
+You should first access the dataset on this link: https://drive.google.com/drive/folders/1LFggkhzRdOCunVVT4PoFCd0EPRR3zHD8?usp=share_link
+Once you access the dataset, you should add it to your google drive. Then, you can simply run the notebook. Do not change the folder names so that the code would work on your "My Drive". Run the file named yolo_implementation_simplified.ipynb. We are also working on a more complex model but there are still errors to fix. 

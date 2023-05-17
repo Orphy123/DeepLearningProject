@@ -34,4 +34,4 @@ The YOLO algorithm has the potential to revolutionize traffic recognition and ma
 
 
 You should first access the dataset on this link: https://drive.google.com/drive/folders/1LFggkhzRdOCunVVT4PoFCd0EPRR3zHD8?usp=share_link
-Once you access the dataset, you should add it to your google drive. Then, you can simply run the notebook. Do not change the folder names so that the code would work on your "My Drive". Run the file named yolo_implementation_simplified.ipynb. We are also working on a more complex model but there are still errors to fix. 
+Once you access the dataset, you should add it to your google drive. Then, you can simply run the notebook. Do not change the folder names so that the code would work on your "My Drive". Run the file named yolo_implementation_final.ipynb. 

@@ -1,4 +1,4 @@
-# DeepLearningProject
+# Deep Learning Project
 
 Participants:
 1. Oheneba Kwaku Berko
